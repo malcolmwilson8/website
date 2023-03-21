@@ -1,1 +1,1 @@
-My website built to support my Founders and Coders application.
+A website built to support my Founders and Coders application.
